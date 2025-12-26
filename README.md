@@ -33,7 +33,6 @@
   </a>
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Deepakchaurasiya2309&theme=tokyonight&hide_border=false" />
 </p>
