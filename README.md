@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVpbnE1M3I0M3JsODM1cHdibDB1bDB1YzVpZHl6amFzaW5kbm9odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
     alt="Welcome to my GitHub profile" 
-    width="100%" 
-    length="100%"
+    width="80%" 
+    length="80%"
     />
   
   <h2 align="center">
