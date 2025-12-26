@@ -34,15 +34,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deepakchaurasiya2309&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakchaurasiya2309&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deepakchaurasiya2309&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Deepakchaurasiya2309&theme=tokyonight&hide_border=false" />
 </p>
 
 
