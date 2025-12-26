@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVpbnE1M3I0M3JsODM1cHdibDB1bDB1YzVpZHl6amFzaW5kbm9odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
     alt="Welcome to my GitHub profile" 
-    width="40%" />
-  <h1 align="center">Hi, I'm Deepak Chaurasiya 👋</h1>
+    width="30%" 
+     <h1 align="center">Hi, I'm Deepak Chaurasiya 👋</h1>/>
+
 </p>
 
 <h2 align="center">🌐 Connect with Me 🌐</h2>
